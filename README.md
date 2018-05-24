@@ -7,9 +7,9 @@ Only the students who have their Stepik ID in this file would get the full mark 
 1. Create a Github account (if you already have an account, just login)
 2. Fork this repository.
 3. Clone your fork locally for editing or edit it on Github directly
-4. Edit the file: Scores.txt and add the following line to the end of the file:
+4. Edit the file: scores.csv and add the following line to the end of the file:
 
-stepikID, 100, Full Name
+    stepikID, 100, Full Name
   
  5. Commit the file to your local repository
  6. Create a pull-request on your file to be updated in this repository. I will need to approve this later.
