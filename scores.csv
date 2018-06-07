@@ -1,4 +1,4 @@
-user_id,number,name
+user_id,score,feedback
 45742758,100, Alireza Manashty
 47308442,100, Zeyu Zhao
 47774965,100,Beiqi Li
@@ -16,7 +16,7 @@ user_id,number,name
 47308189,100, Greg Thebeau
 47118906,100, Evan Larkin
 47276867, 100, Thales Santos
-4545669, 100, Wenjie Tao
+47171238, 100, Wenjie Tao
 47308300,100, Alexis Savoie
 47308616,100, Mehrgan Khoshpasand
 47138854,100, Chad Gerein
